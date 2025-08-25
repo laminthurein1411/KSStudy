@@ -1,4 +1,3 @@
-```markdown
 ## Lesson 26
 
 | Japanese | Hiragana | Burmese |
